@@ -1,7 +1,7 @@
 
 **本项目由阿里云ESA提供加速、计算和保护**
 
-![阿里云加速](aliyun.png)
+![阿里云加速](aliyun.png) 
 
 
 # Stalux - Astro 博客主题
