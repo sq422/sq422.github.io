@@ -1,4 +1,8 @@
 ---
+# 这里是 YAML 前置元数据（必须放在文件开头，用---包裹）
+layout: ../layouts/CategoriesLayout.astro # 可指定布局（也可省略，根据项目需求）
+title: "文章分类" # 页面标题（可选）
+---
 import { getCollection } from 'astro:content';
 import { config_site } from '../../utils/yaml-config-adapter';
 import { processFrontmatter } from '../../integrations/process-frontmatter';
