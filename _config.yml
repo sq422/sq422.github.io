@@ -9,12 +9,12 @@
 title: "三清的博客"
 titleDefault: "三清的博客"
 siteName: "三清的博客"
-author: "三清"
+author: "一气化三清"
 enableViewTransitions: false  ## 是否启用视图转换效果，默认为 false
 
 # 站点资源配置
 favicon: "/stalux.ico"
-avatarPath: "/avatar.webp"
+avatarPath: "src/images/pikaq2.jpg"
 
 # SEO 核心配置，用于让搜索引擎（如百度、Google）更容易抓取、理解、收录你的博客内容，最终提升博客在搜索结果中的排名，获取更多免费的自然流量。
 description: "探索、学习、进步、创造无限可能！姓王者的博客致力于分享前端开发技术，包括JavaScript、TypeScript、Vue等web开发知识。作为计算机科学与技术专业的博主，我相信终身学习的价值，这里记录了我的技术成长历程、实用教程和开发心得，希望能为大家提供有价值的参考和启发。可以不会，但不能不学！"
