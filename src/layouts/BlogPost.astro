@@ -136,7 +136,7 @@ const categoryStr = categoriesToString(categories);
 								}
 							</div>
 							<!-- 文章阅读量统计 -->
-							<div class="page-stats">
+							<!-- <div class="page-stats">
 								{minutesRead && (
 									<span class="reading-time">
 										🕒 阅读时间：{minutesRead}
@@ -145,7 +145,7 @@ const categoryStr = categoriesToString(categories);
 								<span id="vercount_container_page_pv">
 									👀 阅读量：<span id="vercount_value_page_pv">Loading...</span>
 								</span>
-							</div>
+							</div> -->
 						</div>
 						<slot />
 					</div>
@@ -277,7 +277,7 @@ const categoryStr = categoriesToString(categories);
 							</nav>
 						) : null
 					}
-					<WalineComment
+					<!-- <WalineComment
 						serverURL={config_site.comment?.waline?.serverURL}
 						path={Astro.url.pathname}
 						title={title}
@@ -288,7 +288,7 @@ const categoryStr = categoriesToString(categories);
 						wordLimit={config_site.comment?.waline?.wordLimit}
 						pageSize={config_site.comment?.waline?.pageSize}
 						client:idle
-					/>
+					/> -->
 				</article>
 				<RightSiderbar {tags} {categories} {headings} />
 			</div>
