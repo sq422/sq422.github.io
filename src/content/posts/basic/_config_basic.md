@@ -8,6 +8,7 @@ categories:
 date: 2025-5-10T11:00:00+08:00
 updated: 2025-5-10T11:00:00+08:00
 abbrlink: ad81245d
+author: "xingwangzhe"
 ---
 
 ## 核心站点信息配置
