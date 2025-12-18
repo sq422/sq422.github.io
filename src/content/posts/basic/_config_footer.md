@@ -4,7 +4,7 @@ tags:
     - 配置
     - 页脚
 categories:
-    - 主题配置
+    - 网站基本配置
 date: 2025-5-10T15:00:00+8:00
 updated: 2025-5-10T15:00:00+8:00
 abbrlink: dd30cf92

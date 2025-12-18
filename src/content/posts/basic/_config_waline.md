@@ -5,7 +5,7 @@ tags:
     - 评论
     - Waline
 categories:
-    - 主题配置
+    - 网站基本配置
 date: 2025-5-10T14:00:00+8:00
 updated: 2025-5-10T14:00:00+8:00
 abbrlink: f4442947

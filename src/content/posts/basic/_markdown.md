@@ -3,7 +3,7 @@ title: markdown渲染示例
 tags:
     - markdown
 categories:
-    - markdown
+    - 网站基本配置
 abbrlink: 2cb4f19c
 date: 2025-5-11T20:00:00+8:00
 updated: 2025-5-11T20:00:00+8:00
