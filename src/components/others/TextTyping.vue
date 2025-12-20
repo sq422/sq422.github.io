@@ -16,7 +16,7 @@ let currentCharIndex = 0;
 let isDeleting = false;
 let typingDelay = 40; // 打印速度
 let deletingDelay = 80;  // 删除速度
-let pauseDelay = 1000;   // 暂停时间
+let pauseDelay = 3000;   // 暂停时间，修改为3秒
 
 // 打字效果函数
 function typeText() {

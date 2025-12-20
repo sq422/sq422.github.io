@@ -13,7 +13,7 @@ author: "一气化三清"
 enableViewTransitions: false  ## 是否启用视图转换效果，默认为 false
 
 # 站点资源配置
-favicon: "/stalux.ico"
+favicon: "/images/pikaq2.jpg"
 avatarPath: "/images/pikaq2.jpg"
 
 # SEO 核心配置，用于让搜索引擎（如百度、Google）更容易抓取、理解、收录你的博客内容，最终提升博客在搜索结果中的排名，获取更多免费的自然流量。
@@ -33,15 +33,15 @@ nav:
   - title: "首页"
     path: "/"
     icon: "home"
-  - title: "归档"
-    path: "/archives/"
-    icon: "archive"
   - title: "分类"
     path: "/categories/"
     icon: "folder"
   - title: "标签"
     path: "/tags/"
     icon: "tag"
+  - title: "归档"
+    path: "/archives/"
+    icon: "archive"
   # - title: "友链"
   #   path: "/links/"
   #   icon: "link"
@@ -52,13 +52,13 @@ nav:
   #   path: "https://www.travellings.cn/go.html"
   #   icon: "airplay"
 
-# 站点特效配置
+# 站点特效配置 D:\MyBlog\blog2\src\components\others\TextTyping.astro
 textyping:
-  - "Free as in Freedom"
-  - "Hello World!"
-  - "弃我去者，昨日之日不可留"
+  - "弃我去者,昨日之日不可留"
+  - "自临沧海不羡水,独坐巫山不欠云"
 
-# 社交媒体链接配置 ,图标来自于https://simpleicons.org/
+
+# 社交媒体链接配置 ,图标来自于https://simpleicons.org/ , 跳动效果已被手动关闭，D:\MyBlog\blog2\src\components\others\SocialLinks.astro
 medialinks:
   - title: "Github"
     url: "https://github.com/sq422"
