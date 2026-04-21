@@ -76,17 +76,22 @@
   },
   "src/content/posts/basicSkill/java/java_basic_1.md": {
     "created": "2026-04-09T12:19:41.995+08:00",
-    "modified": "2026-04-20T20:01:00.962+08:00",
+    "modified": "2026-04-21T14:26:54.425+08:00",
     "abbrlink": "2b8eadb2"
   },
   "src/content/posts/basicSkill/java/java_multithreading_1.md": {
     "created": "2026-04-13T13:21:50.694+08:00",
-    "modified": "2026-04-20T21:51:04.539+08:00",
+    "modified": "2026-04-21T18:08:55.795+08:00",
     "abbrlink": "1b7f87c8"
   },
   "src/content/posts/basicSkill/java/java_multithreading_2.md": {
     "created": "2026-04-18T13:54:24.056+08:00",
-    "modified": "2026-04-18T13:56:33.937+08:00",
+    "modified": "2026-04-21T14:26:06.909+08:00",
     "abbrlink": "42e09f71"
+  },
+  "src/content/posts/basicSkill/java/java_list_1.md": {
+    "created": "2026-04-21T13:41:50.356+08:00",
+    "modified": "2026-04-21T19:51:02.040+08:00",
+    "abbrlink": "b6e63f48"
   }
 }
